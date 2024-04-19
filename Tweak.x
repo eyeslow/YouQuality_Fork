@@ -1,10 +1,10 @@
 #import "../YTVideoOverlay/Header.h"
 #import "../YTVideoOverlay/Init.x"
-#import <YouTubeHeader/YTColor.h>
-#import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
-#import <YouTubeHeader/YTSingleVideoController.h>
-#import <YouTubeHeader/YTTypeStyle.h>
-#import <YouTubeHeader/MLFormat.h>
+#import "../YouTubeHeader/YTColor.h"
+#import "../YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h"
+#import "../YouTubeHeader/YTSingleVideoController.h"
+#import "../YouTubeHeader/YTTypeStyle.h"
+#import "../YouTubeHeader/MLFormat.h"
 
 #define TweakKey @"YouQuality"
 
